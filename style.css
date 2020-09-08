@@ -1,0 +1,16 @@
+h1{color:darkblue;}
+    body{border:solid;}
+.header{
+    background-color: chartreuse;
+    display:flex;
+    justify-content: center;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
